@@ -2,7 +2,7 @@
 
 **AI Engineering student🎓 • ML Developer💻** 
 
-![Banner animado](./images/banner.png)
+![Banner animado](./imagenes/banner.png)
 </p>
 
 Apasionado por el Machine Learning, la computer vision y los sistemas que mejoran la vida de las personas.
