@@ -79,7 +79,13 @@ Amante del fútbol, el trabajo en equipo y los desafíos creativos con propósit
 ![VAE](https://img.shields.io/badge/VAE-45B39D?style=for-the-badge)
 
 
-## 📌 Trabajando en...
+## 📌 GitHub Stats
+<p align="center">
+<a href="https://github.com/Nicokaplan2005">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nicokaplan2005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
 <!--
 **Nicokaplan2005/Nicokaplan2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
