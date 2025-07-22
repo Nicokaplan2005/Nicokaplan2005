@@ -2,7 +2,9 @@
 
 **AI Engineering student🎓 • ML Developer💻** 
 
-![Banner animado](./imagenes/banner.png)
+<a href="https://igijon.netlify.app/" target="_blank"><img src="./imagenes/banner.png" 
+   borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'></a>
+
 </p>
 
 Apasionado por el Machine Learning, la computer vision y los sistemas que mejoran la vida de las personas.
